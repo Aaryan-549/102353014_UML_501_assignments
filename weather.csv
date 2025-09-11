@@ -1,0 +1,141 @@
+City,Condition,Temperature
+Accra,Scattered clouds. Warm.,27 °C
+Edmonton *,Sunny. Mild.,17 °C
+Nassau *,Broken clouds. Hot.,32 °C
+Addis Ababa,Passing clouds. Cool.,16 °C
+Frankfurt *,Broken clouds. Mild.,17 °C
+New Delhi,Fog. Warm.,31 °C
+Adelaide,Quite cool.,12 °C
+Guatemala City,Broken clouds. Mild.,23 °C
+New Orleans *,Sunny. Warm.,29 °C
+Algiers,Overcast. Warm.,26 °C
+Halifax *,Partly sunny. Mild.,19 °C
+New York *,Sunny. Mild.,21 °C
+Almaty,Partly cloudy. Mild.,21 °C
+Hanoi,Passing clouds. Warm.,26 °C
+Oslo *,Partly sunny. Mild.,21 °C
+Amman,Passing clouds. Warm.,25 °C
+Harare,Partly sunny. Pleasantly warm.,26 °C
+Ottawa *,Passing clouds. Mild.,18 °C
+Amsterdam *,Passing clouds. Cool.,16 °C
+Havana *,Scattered clouds. Warm.,31 °C
+Paris *,Sunny. Mild.,21 °C
+Anadyr,Passing clouds. Quite cool.,6 °C
+Helsinki *,Passing clouds. Mild.,19 °C
+Perth,Clear. Quite cool.,7 °C
+Anchorage *,Passing clouds. Cool.,11 °C
+Hong Kong,Passing clouds. Warm.,29 °C
+Philadelphia *,Partly sunny. Mild.,23 °C
+Ankara,Passing clouds. Mild.,23 °C
+Honolulu,Passing clouds. Warm.,26 °C
+Phoenix,Passing clouds. Hot.,34 °C
+Antananarivo,Passing clouds. Mild.,17 °C
+Houston *,Sunny. Warm.,27 °C
+Prague *,Passing clouds. Mild.,20 °C
+Asuncion,Passing clouds. Mild.,23 °C
+Indianapolis *,Partly sunny. Mild.,20 °C
+Reykjavik,Sprinkles. Broken clouds. Cool.,9 °C
+Athens *,Pleasantly warm.,31 °C
+Islamabad,Passing clouds. Warm.,29 °C
+Rio de Janeiro,Sunny. Hot.,32 °C
+Atlanta *,Sunny. Mild.,22 °C
+Istanbul,Sunny. Warm.,25 °C
+Riyadh,Clear. Extremely hot.,39 °C
+Auckland,Light rain. Fog. Cool.,12 °C
+Jakarta,Passing clouds. Mild.,25 °C
+Rome *,Scattered clouds. Warm.,28 °C
+Bangkok,Light rain. Passing clouds. Warm.,25 °C
+Jerusalem *,Mild.,22 °C
+Salt Lake City *,Partly sunny. Pleasantly warm.,27 °C
+Barcelona *,Passing clouds. Mild.,24 °C
+Johannesburg,Scattered clouds. Mild.,22 °C
+San Francisco *,Mostly cloudy. Mild.,20 °C
+Beijing,Rain. Overcast. Mild.,19 °C
+Karachi,Thunderstorms. Overcast. Warm.,26 °C
+San Juan,Scattered clouds. Hot.,31 °C
+Beirut *,Passing clouds. Warm.,28 °C
+Kathmandu,Fog. Mild.,23 °C
+San Salvador,Passing clouds. Warm.,26 °C
+Belgrade *,Partly sunny. Hot.,31 °C
+Kingston,Hot.,33 °C
+Santiago *,Passing clouds. Mild.,19 °C
+Bengaluru,Passing clouds. Warm.,25 °C
+Kinshasa,Partly sunny. Warm.,27 °C
+Santo Domingo,Partly sunny. Hot.,32 °C
+Berlin *,Passing clouds. Mild.,24 °C
+Kiritimati,Passing clouds. Warm.,26 °C
+São Paulo,Partly sunny. Warm.,26 °C
+Bogota,Broken clouds. Mild.,18 °C
+Kolkata,Passing clouds. Warm.,30 °C
+Seattle *,Overcast. Mild.,17 °C
+Boston *,Passing clouds. Mild.,20 °C
+Kuala Lumpur,Passing clouds. Warm.,28 °C
+Seoul,Clear. Mild.,20 °C
+Brasilia,Sunny. Hot.,32 °C
+Kuwait City,Sunny. Extremely hot.,44 °C
+Shanghai,Passing clouds. Warm.,26 °C
+Brisbane,Cool.,18 °C
+Kyiv *,Passing clouds. Mild.,25 °C
+Singapore,Passing clouds. Warm.,25 °C
+Brussels *,Passing clouds. Mild.,18 °C
+La Paz,Passing clouds. Cool.,10 °C
+Sofia *,Partly sunny. Pleasantly warm.,27 °C
+Bucharest *,Sunny. Pleasantly warm.,27 °C
+Lagos,Thunderstorms. Partly sunny. Warm.,27 °C
+St. John's *,Mostly cloudy. Mild.,17 °C
+Budapest *,Sunny. Mild.,24 °C
+Lahore,Clear. Warm.,30 °C
+Stockholm *,Sunny. Mild.,20 °C
+Buenos Aires,Passing clouds. Mild.,21 °C
+Las Vegas *,Passing clouds. Pleasantly warm.,27 °C
+Suva,Passing clouds. Mild.,17 °C
+Cairo *,Passing clouds. Warm.,30 °C
+Lima,Overcast. Mild.,17 °C
+Sydney,Overcast. Mild.,17 °C
+Calgary *,Sunny. Mild.,17 °C
+Lisbon *,Passing clouds. Mild.,21 °C
+Taipei,Partly cloudy. Warm.,29 °C
+Canberra,Clear. Quite cool.,7 °C
+London *,Partly sunny. Mild.,19 °C
+Tallinn *,Sunny. Mild.,20 °C
+Cape Town,Partly sunny. Cool.,15 °C
+Los Angeles *,Overcast. Mild.,21 °C
+Tashkent,Passing clouds. Pleasantly warm.,26 °C
+Caracas,Scattered clouds. Hot.,32 °C
+Madrid *,Passing clouds. Pleasantly warm.,25 °C
+Tegucigalpa,Partly sunny. Warm.,26 °C
+Casablanca *,Scattered clouds. Mild.,22 °C
+Managua,Passing clouds. Warm.,31 °C
+Tehran,Clear. Hot.,32 °C
+Chicago *,Partly sunny. Mild.,21 °C
+Manila,Passing clouds. Warm.,25 °C
+Tokyo,Warm.,27 °C
+Copenhagen *,Clear. Mild.,22 °C
+Melbourne,Clear. Quite cool.,7 °C
+Toronto *,Passing clouds. Mild.,19 °C
+Dallas *,Passing clouds. Mild.,24 °C
+Mexico City,Scattered clouds. Mild.,20 °C
+Vancouver *,Partly sunny. Mild.,18 °C
+Dar es Salaam,Partly sunny. Warm.,29 °C
+Miami *,Thunderstorms. Partly sunny. Hot.,31 °C
+Vienna *,Sunny. Mild.,23 °C
+Darwin,Clear. Warm.,26 °C
+Minneapolis *,Overcast. Mild.,19 °C
+Warsaw *,Sunny. Mild.,22 °C
+Denver *,Partly sunny. Mild.,24 °C
+Minsk,Sunny. Mild.,19 °C
+Washington DC *,Scattered clouds. Mild.,22 °C
+Detroit *,Sunny. Mild.,22 °C
+Montevideo,Sunny. Mild.,18 °C
+Winnipeg *,Mild.,20 °C
+Dhaka,Passing clouds. Warm.,29 °C
+Montréal *,Passing clouds. Mild.,18 °C
+Yangon,Mostly cloudy. Warm.,26 °C
+Doha,Clear. Extremely hot.,34 °C
+Moscow,Passing clouds. Mild.,21 °C
+Zagreb *,Sunny. Warm.,25 °C
+Dubai,Clear. Extremely hot.,36 °C
+Mumbai,Passing clouds. Warm.,28 °C
+Zürich *,Mild.,19 °C
+Dublin *,Drizzle. Partly sunny. Cool.,15 °C
+Nairobi,Passing clouds. Mild.,22 °C
